@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/oslash-assesment/static/css/main.58808926.css",
+    "main.js": "/oslash-assesment/static/js/main.7a1010a1.js",
+    "static/js/787.187bb399.chunk.js": "/oslash-assesment/static/js/787.187bb399.chunk.js",
+    "static/media/Vector.svg": "/oslash-assesment/static/media/Vector.26f64d65084909b69f36d69eb73c6016.svg",
+    "index.html": "/oslash-assesment/index.html",
+    "main.58808926.css.map": "/oslash-assesment/static/css/main.58808926.css.map",
+    "main.7a1010a1.js.map": "/oslash-assesment/static/js/main.7a1010a1.js.map",
+    "787.187bb399.chunk.js.map": "/oslash-assesment/static/js/787.187bb399.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.58808926.css",
+    "static/js/main.7a1010a1.js"
+  ]
+}
