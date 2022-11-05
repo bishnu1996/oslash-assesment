@@ -1,0 +1,16 @@
+.input-box{
+    position: relative;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.input{
+    width: 100%;
+    padding: 10px;
+}
+.input-btn{
+    position: absolute;
+    right: 0;
+    top: 0;
+    padding: 10px;
+}

@@ -1,0 +1,37 @@
+.fourthpage{
+    width: 500px;
+    padding: 10px;
+    box-shadow: 0px 2px 10px rgba(0, 0, 0, 0.3);
+    border-radius: 8px;
+}
+.chow-cros-name{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #F3F4F6;
+    padding: 4px;
+}
+.cross-name{
+    margin-left: 10px;
+}
+.cross-img{
+    margin-left: 5px;
+}
+.select-button{
+    display: flex;
+}
+.fourth-select{
+    padding: 10px;
+    border: none;
+    background-color: #F3F4F6;
+}
+.fourthpage-button{
+    background-color: #ffff;
+}
+.showMember{
+    height: 100px;
+}
+.show-member-image-name{
+    display: flex;
+    align-items: center;
+}

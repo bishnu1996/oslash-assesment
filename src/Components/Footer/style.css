@@ -1,0 +1,24 @@
+.footer {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #f9fafb;
+  border-top: 1px solid #e5e7eb;
+  border-radius: 0px 0px 8px 8px;
+}
+.questionMark {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.copylink {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.copylink p {
+  margin-left: 5px;
+}
+.questionMark p {
+  margin-left: 5px;
+}

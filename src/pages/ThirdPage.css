@@ -1,0 +1,20 @@
+.third-page{
+    width: 500px;
+    padding: 12px;
+    border-radius: 10px;
+    box-shadow:0px 2px 10px rgba(0, 0, 0, 0.3);
+}
+.member-details-group .member-details-input{
+    width: 100%;
+    padding: 10px 2px;
+    border-radius: 8px;
+}
+.member-details-group{
+    position: relative;
+}
+.third-drop-down{
+    position: absolute;
+    top: 7px;
+    right: -3px;
+
+}
